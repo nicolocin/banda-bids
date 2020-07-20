@@ -1,0 +1,1 @@
+c965e0bf-58b4-4391-b586-0bf5f537df02 chunk=50MiB encryption=none externaltype=rclone name=banda001 prefix=bids rclone_layout=lower target=gd-banda type=external timestamp=1595217601.564845s
